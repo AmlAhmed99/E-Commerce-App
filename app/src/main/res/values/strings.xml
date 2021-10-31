@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Register UI</string>
+
+    <string name="forgot">Forgot Your Password? </string>
+    <string name="dnt_have">Don\'t Have an account?</string>
+    <string name="alrdy_have">Already have an account?</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="toolbar_title">Notes App</string>
+</resources>
